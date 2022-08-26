@@ -39,8 +39,8 @@
 <br>prices are around 10USD. <3
 <br>
 <h2></h2> 
-<a href="https://xhyabunny.github.io/main">Check our main hub!</a> (still on the work)
-<br>
+<h4>> check our <a href="https://xhyabunny.github.io/main">main hub!</a> (still on the work)</h4> 
+<br>or..
 <h4>> take a look at xhyabunny project below!</h4>
 </div>
 <h3> ‎ ‎ ‎ ‎ ‎ ‎ ‎⇣ ⇣ ⇣
