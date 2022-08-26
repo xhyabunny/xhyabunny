@@ -12,9 +12,7 @@
   @𝚋𝚘𝚗𝚗𝚍𝚞𝚋𝚣 𝚘𝚗 𝚊𝚕𝚕 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 <br>
 </div>
-
 <br>
-
 <h2 align="center"> »‎ ｋｎｏｗｌｅｄｇｅ！</h2>
 <p align="center">♯♯ 𝘐 𝘤𝘢𝘯 𝘮𝘰𝘴𝘵 𝘭𝘪𝘬𝘦𝘭𝘺 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦𝘴𝘦~ 🧪️</p>
 <p align="center">
@@ -25,8 +23,6 @@
   <img src='https://user-images.githubusercontent.com/106491722/186936953-6b6cbd7d-f942-4717-a5d7-6db6310f9ed7.png' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936955-ae528a6d-91d0-40e0-a995-dcbea8aae11f.png' height='42px'/>
   </p>
-<br>
-<br>
 <br>
 <div align="center">
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
