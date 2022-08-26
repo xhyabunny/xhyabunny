@@ -28,7 +28,7 @@
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
  
 <img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
-<h3>> Whats xhyabunny.org?</h3>
+<h3>> Whats <a href="https://github.com/xhyabunnyorg">xhyabunny.org?</a></h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, mostly used as a coder team to help people out and make cool apps for users!</p>
 <h3>> What else can i do with it?</h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ also has a linktree function! 
