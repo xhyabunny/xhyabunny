@@ -26,6 +26,8 @@
 <br>
 <div align="center">
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
+ 
+<img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
 <h3>Whats xhyabunny.org?</h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, mostly used as a coder team to help people out and make cool apps for users!</p>
 <h3>What else can i do with it?</h3>
@@ -38,5 +40,5 @@
 <br>
 <h2></h2> 
 <h4>> take a look at xhyabunny main hub below!</h4>
-<h3>⇣ ⇣ ⇣
 </div>
+<h3> ‎ ‎ ‎ ‎ ‎ ‎ ‎⇣ ⇣ ⇣
