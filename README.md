@@ -26,6 +26,17 @@
 <br>
 <div align="center">
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
-
-<p>> take a look at xhyabunny main hub !</p>
+<h3>Whats xhyabunny.org?</h3>
+<p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, mostly used as a coder team to help people out and make cool apps for users!</p>
+<h3>What else can i do with it?</h3>
+<p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ also has a linktree function! 
+<br>where you can commission your page and search it in the main hub once its published! 
+<br>
+<h3>Want a custom page?</h3>
+<p>just dm me on discord [bonn#4821] 
+<br>prices are around 10USD. <3
+<br>
+<h2></h2> 
+<h4>> take a look at xhyabunny main hub below!</h4>
+<h3>⇣ ⇣ ⇣
 </div>
