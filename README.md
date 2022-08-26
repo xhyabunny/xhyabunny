@@ -1,7 +1,7 @@
-# BIO
-hello <3
+# » hi ♡
 
-<p align="center">𝘐 𝘤𝘢𝘯 𝘮𝘰𝘴𝘵 𝘭𝘪𝘬𝘦𝘭𝘺 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦𝘴𝘦. <3/p>
+
+<p align="center">♯♯ 𝘐 𝘤𝘢𝘯 𝘮𝘰𝘴𝘵 𝘭𝘪𝘬𝘦𝘭𝘺 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦𝘴𝘦.</p>
 
 <p align="center">
   <img src='https://user-images.githubusercontent.com/106491722/186936949-86e5784f-99cf-4c24-9125-a022a895ce92.jpg' height='42px'/>
@@ -20,3 +20,10 @@ hello <3
 
   <img src='https://user-images.githubusercontent.com/106491722/186936958-c86846c4-e3db-4a3b-a901-1264347b7ff2.png' height='42px'/>
   </p>
+
+<br>
+<br>
+<br>
+
+# » Xhyabunny.org!
+take a look at xhyabunny main hub~
