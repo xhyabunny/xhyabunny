@@ -13,6 +13,8 @@
 <br>
 </div>
 <br>
+![xhaybunny stats](https://github-readme-stats.vercel.app/api?username=xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=radical&bg_color=00000000)
+<br>
 <h2 align="center"> »‎ ｋｎｏｗｌｅｄｇｅ！</h2>
 <p align="center">♯ 𝘐 𝘤𝘢𝘯 𝘮𝘰𝘴𝘵 𝘭𝘪𝘬𝘦𝘭𝘺 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦𝘴𝘦~ 🧪️</p>
 <p align="center">
