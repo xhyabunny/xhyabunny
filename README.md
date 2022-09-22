@@ -15,9 +15,9 @@
 </div>
 <br>
 
-![aa](https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=tokyonight&bg_color=00000000)
+[![aa](https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=tokyonight&bg_color=00000000)](https://github.com/xhyabunny?tab=repositories) 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&theme=tokyonight&layout=compact&bg_color=00000000)](https://github.com/xhyabunny/repos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&theme=tokyonight&bg_color=00000000)](https://github.com/xhyabunny?tab=repositories)
 
 
 <br>
@@ -43,7 +43,7 @@
 <br>where you can commission your page and search it in the main hub once its published! 
 <br>
 <h3>> Want a custom page?</h3>
-<p>just dm me on discord [bonn#4821] 
+<p>just dm me on discord <a href="#" onclick="CopyToClipboard('sample');return false;">bonn#4821</a>
 <br>prices are around 10USD. <3
 <br>
 <h2></h2> 
