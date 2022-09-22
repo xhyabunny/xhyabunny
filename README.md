@@ -39,20 +39,19 @@
  
 <img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
 <h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
-<p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, mostly used as a coder team to help people out and make cool apps for users!</p>
+<p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, 
+<br>mostly used as a coder team to help people out and make cool apps for users!
 <h3>> What else can i do with it?</h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ also has a linktree function! 
-<br>where you can commission your page and search it in the main hub once its published! 
+<br>where you can commission your page and search it in the main hub 
+<br>once its published! 
 <br>
-<h3>> Want a custom page?</h3>
-<p>just dm me on discord <a href="#" target="_blank" onclick="return:false;">bonn#4821</a>
-<br>prices are around 10USD. <3
+<h3>> Want your page?</h3>
+<p>just dm me on discord <a href="#" target="_blank" onclick="return:false;">bonn#4821</a> or <a href="#" target="_blank" onclick="return:false;">mail me</a>
+<br>prices are around 10USD! (yes, we also do the graphic work <3)
 <br>
-<h2></h2> 
-<h4>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h4> 
-<br>or..
-<h4>> take a look at xhyabunny project below!</h4>
-
+<h3>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h3> 
+<br>🔽 or.. take a look at xhyabunny project ! 🔽
 
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=cobalt&repo=main)](https://github.com/xhyabunny/main)
 
