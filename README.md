@@ -3,7 +3,7 @@
 <div align="center">
 <br>🎀 𝘪𝘮 𝘫𝘶𝘴𝘵 𝘺𝘰𝘶𝘳 𝘭𝘰𝘤𝘢𝘭 𝘢𝘳𝘦𝘢 𝘣𝘶𝘯𝘯𝘺 𝘤𝘰𝘥𝘦𝘳. <3
 <br>𝘪 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘶𝘴𝘪𝘤 𝘢𝘯𝘥 𝘢𝘳𝘵 𝘢𝘴 𝘸𝘦𝘭𝘭!
-<br>𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘵𝘰 𝘤𝘩𝘦𝘤𝘬 𝘢𝘭𝘭 𝘮𝘺 𝘰𝘵𝘩𝘦𝘳 𝘱𝘳𝘰𝘧𝘪𝘭𝘦𝘴,,,
+<br>𝘮𝘢𝘬𝘦 𝘴𝘶𝘳𝘦 𝘵𝘰 𝘤𝘩𝘦𝘤𝘬 𝘢𝘭𝘭 𝘮𝘺 𝘰𝘵𝘩𝘦𝘳 𝘱𝘳𝘰𝘧𝘪𝘭𝘦𝘴,,, 🧪️
 <br>
 <br>  ‎  /)‎ /)
 <br>(‎ ‎   .‎ ‎‎   .‎ )
@@ -15,9 +15,13 @@
 </div>
 <br>
 
-[![aa](https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=tokyonight&bg_color=00000000)](https://github.com/xhyabunny?tab=repositories) 
+<a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=cobalt&bg_color=00000000" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&theme=tokyonight&bg_color=00000000)](https://github.com/xhyabunny?tab=repositories)
+<a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&theme=cobalt&bg_color=00000000" />
+</a>
 
 
 <br>
@@ -55,5 +59,5 @@
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&repo=main)](https://github.com/xhyabunny/main)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=cobalt&repo=main)](https://github.com/xhyabunny/main)
 
