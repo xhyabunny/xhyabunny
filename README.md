@@ -43,7 +43,7 @@
 <br>where you can commission your page and search it in the main hub once its published! 
 <br>
 <h3>> Want a custom page?</h3>
-<p>just dm me on discord <a href="#" onclick="CopyToClipboard('sample');return false;">bonn#4821</a>
+<p>just dm me on discord <a href="#" onclick="CopyToClipboard('sample');return false;alert('copied to clipboard')">bonn#4821</a>
 <br>prices are around 10USD. <3
 <br>
 <h2></h2> 
