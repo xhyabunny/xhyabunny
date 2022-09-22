@@ -33,7 +33,7 @@
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
  
 <img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
-<h3>> Whats <a href='https://github.com/xhyabunnyorg&target=”_blank”'>xhyabunny.org?</a></h3>
+<h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, mostly used as a coder team to help people out and make cool apps for users!</p>
 <h3>> What else can i do with it?</h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ also has a linktree function! 
@@ -44,7 +44,7 @@
 <br>prices are around 10USD. <3
 <br>
 <h2></h2> 
-<h4>> check our <a href='https://xhyabunny.github.io/main&target=”_blank"'>main hub!</a> (still on the work)</h4> 
+<h4>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h4> 
 <br>or..
 <h4>> take a look at xhyabunny project below!</h4>
 </div>
@@ -52,5 +52,5 @@
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&repo=main)](https://github.com/xhyabunny/main&target=”_blank”)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&repo=main)](https://github.com/xhyabunny/main)
 
