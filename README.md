@@ -17,6 +17,9 @@
 
 ![aa](https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=tokyonight&bg_color=00000000)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny)](https://github.com/xhyabunny/repos)
+
+
 <br>
 <h2 align="center"> »‎ ｋｎｏｗｌｅｄｇｅ！</h2>
 <p align="center">♯ 𝘐 𝘤𝘢𝘯 𝘮𝘰𝘴𝘵 𝘭𝘪𝘬𝘦𝘭𝘺 𝘸𝘰𝘳𝘬 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦𝘴𝘦~ 🧪️</p>
