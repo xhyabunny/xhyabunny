@@ -52,10 +52,25 @@
 <h4>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h4> 
 <br>or..
 <h4>> take a look at xhyabunny project below!</h4>
-</div>
+
+
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=cobalt&repo=main)](https://github.com/xhyabunny/main)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br> ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=cobalt&repo=main)](https://github.com/xhyabunny/main)
-
+</div>
