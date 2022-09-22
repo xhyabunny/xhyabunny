@@ -16,13 +16,11 @@
 <br>
 
 <a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=cobalt&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&theme=cobalt&bg_color=00000000" />
 </a>
-
+<a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xhyabunny&count_private=true&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=cobalt&bg_color=00000000" />
+</a>
 
 <br>
 <h2 align="center"> »‎ ｋｎｏｗｌｅｄｇｅ！</h2>
