@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/xhyabunny/xhyaOne_" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xio&layout=compact" />
 </a>
 
 <br>🎀 𝘪𝘮 𝘫𝘶𝘴𝘵 𝘺𝘰𝘶𝘳 𝘭𝘰𝘤𝘢𝘭 𝘢𝘳𝘦𝘢 𝘣𝘶𝘯𝘯𝘺 𝘤𝘰𝘥𝘦𝘳. <3
