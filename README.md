@@ -1,9 +1,7 @@
 <h2 align="center"> » hi! ૮꒰ ˶• ༝ •˶꒱ა ♡ </h2>
 
 <div align="center">
-<a href="https://github.com/xhyabunny/xhyaOne_" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
-</a>
+
 
 <br>🎀 𝘪𝘮 𝘫𝘶𝘴𝘵 𝘺𝘰𝘶𝘳 𝘭𝘰𝘤𝘢𝘭 𝘢𝘳𝘦𝘢 𝘣𝘶𝘯𝘯𝘺 𝘤𝘰𝘥𝘦𝘳. <3
 <br>𝘪 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘶𝘴𝘪𝘤 𝘢𝘯𝘥 𝘢𝘳𝘵 𝘢𝘴 𝘸𝘦𝘭𝘭!
@@ -16,8 +14,11 @@
   @𝚋𝚘𝚗𝚗𝚍𝚞𝚋𝚣 𝚘𝚗 𝚊𝚕𝚕 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 <br>(ʙᴜᴛ ᴛᴡɪᴛᴛᴇʀ, ᴛᴡɪᴛᴛᴇʀ ꜱᴜᴄᴋꜱ..)
 <br>
+  <br>
+  <a href="https://github.com/xhyabunny/xhyaOne_" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
+</a>
 </div>
-<br>
 
 <a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&theme=cobalt&bg_color=00000000" />
