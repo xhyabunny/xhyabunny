@@ -53,20 +53,6 @@
   <br>it's a programmers team to help people with useful apps!
 <br>
 <h3>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h3> 
-<h4>🔽 or.. take a look at the project ! 🔽
-<br>
-<a href="https://github.com/xhyabunny/main" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=main&layout=compact" />
-</a>
-
-
-
-
-
-
-
-
-
 
 <h2> » Make sure to check the pinned repos !</h2>
 
