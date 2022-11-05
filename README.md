@@ -58,7 +58,6 @@
 <h3>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h3> 
 <br>🔽 or.. take a look at the project ! 🔽
 <br>
-<br>
 <a href="https://github.com/xhyabunny/main" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=main&hide_border=true&layout=compact" />
 </a>
