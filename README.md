@@ -45,23 +45,14 @@
 <img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
   
   <h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
-  <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, 
-  <br>mostly used as a coder team to help people out and make cool apps for users!
-  
-<h3>> What else can i do with it?</h3>
-<p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ also has a linktree function! 
-<br>where you can commission your page and search it in the main hub 
-<br>once its published! 
-<br>
-<h3>> Want your page?</h3>
-<p>just dm me on discord <a href="#" target="_blank" onclick="return:false;">bonn#4821</a> or <a href="#" target="_blank" onclick="return:false;">mail me</a>
-<br>prices are around 10USD! (yes, we also do the graphic work <3)
+  <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is an organization focused on programming, 
+  <br>it's a programmers team to help people with useful apps!
 <br>
 <h3>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h3> 
-<br>🔽 or.. take a look at the project ! 🔽
+<h4>🔽 or.. take a look at the project ! 🔽
 <br>
 <a href="https://github.com/xhyabunny/main" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=main&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=main&layout=compact" />
 </a>
 
 
