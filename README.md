@@ -44,14 +44,11 @@
  
 <img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
   
-<div>
   <h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
   <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is a project focused on coding, 
   <br>mostly used as a coder team to help people out and make cool apps for users!
-</div>
-
-<div>
-  <h3>> What else can i do with it?</h3>
+  
+<h3>> What else can i do with it?</h3>
 <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ also has a linktree function! 
 <br>where you can commission your page and search it in the main hub 
 <br>once its published! 
