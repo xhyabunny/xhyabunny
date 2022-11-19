@@ -15,7 +15,7 @@
 <br>(ʙᴜᴛ ᴛᴡɪᴛᴛᴇʀ, ᴛᴡɪᴛᴛᴇʀ ꜱᴜᴄᴋꜱ..)
 <br>
   <br>
-  <a href="https://github.com/xhyabunny/xhyaOne_/releases/tag/1.5" target="_blank">
+  <a href="https://github.com/xhyabunny/xhyaOne_/releases/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
 </a>
 </div>
