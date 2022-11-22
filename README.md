@@ -14,6 +14,9 @@
   @𝚋𝚘𝚗𝚗𝚍𝚞𝚋𝚣 𝚘𝚗 𝚊𝚕𝚕 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 <br>(ʙᴜᴛ ᴛᴡɪᴛᴛᴇʀ, ᴛᴡɪᴛᴛᴇʀ ꜱᴜᴄᴋꜱ..)
 <br>
+<br>https://xhyabunny.tk/ < soon
+<br>https://plebs.tk/
+<br>
   <br>
   <a href="https://github.com/xhyabunny/xhyaOne_/releases/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
