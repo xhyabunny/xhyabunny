@@ -14,7 +14,7 @@
   @𝚋𝚘𝚗𝚗𝚍𝚞𝚋𝚣 𝚘𝚗 𝚊𝚕𝚕 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 <br>(ʙᴜᴛ ᴛᴡɪᴛᴛᴇʀ, ᴛᴡɪᴛᴛᴇʀ ꜱᴜᴄᴋꜱ..)
 <br>
-<br>https://xhyabunny.tk/ < soon
+<br>https://xhyabunny.tk/ < wip
 <br>https://plebs.tk/
 <br>
   <br>
@@ -55,7 +55,7 @@
   <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is an organization focused on programming, 
   <br>it's a programmers team to help people with useful apps!
 <br>
-<h3>> check our <a href='https://xhyabunny.github.io/main' target=”_blank">main hub!</a> (still on the work)</h3> 
+<h3>> check our <a href='https://xhyabunny.tk/' target=”_blank">main hub!</a> (still on the work)</h3> 
 <br>
 <h2> » Make sure to check the pinned repos !</h2>
 
