@@ -49,7 +49,7 @@
 <div align="center">
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
  
-<img src='https://xhyabunny.github.io/main/assets/xhya.png' height='100px'/>
+<img src='https://xhyabunny.tk/assets/xhya.png' height='100px'/>
   
   <h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
   <p>𝙭𝙝𝙮𝙖𝙗𝙪𝙣𝙣𝙮.𝙤𝙧𝙜 ✔️ is an organization focused on programming, 
