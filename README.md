@@ -54,6 +54,9 @@
 <a href="https://github.com/xhyabunny/xhyaOne_/releases/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
 </a>
+  <a href="https://github.com/xhyabunny/xhyaOne-opensource" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne-opensource&layout=compact" />
+</a>
   </div>
 
 <div align="center">
