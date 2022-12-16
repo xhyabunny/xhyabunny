@@ -26,7 +26,7 @@
   
   <br>
   
-  [xhya-module](https://xhyabunny.tk)
+  [xhya-module](https://www.npmjs.com/~xhyabunny)
   
  ```diff
   npm i xhya-module
