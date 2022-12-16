@@ -24,6 +24,10 @@
   <img src='https://user-images.githubusercontent.com/106491722/186936955-ae528a6d-91d0-40e0-a995-dcbea8aae11f.png' height='42px'/>
   </p>
   
+  <br>
+  
+  [xhya-module](https://xhyabunny.tk)
+  
  ```diff
   npm i xhya-module
  ```
