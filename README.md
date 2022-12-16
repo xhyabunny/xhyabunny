@@ -28,18 +28,6 @@
   npm i xhya-module
  ```
   
-  <h2 align="center"> »‎ ｐｒｏｊｅｃｔｓ！</h2>
-
-  
-  | api | status |
-| --------------- | --------------- | 
-| [ex-ide](https://ex-ide.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/7bbe6b35-15d7-4f47-b219-783fc096ac84/deploy-status)](https://ex-ide.netlify.app) |
-| [xhyaBot](https://xhyabot.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/12659005-2849-48c3-b984-2b2da9c5a80d/deploy-status)](https://app.netlify.com/sites/xhyabot/deploys) |
-| [xhyabunny.tk](https://xhyabunny.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/b2ad9e38-32dc-4829-86ae-586922f59885/deploy-status)](https://app.netlify.com/sites/xhyabunny/deploys) | 
-<a href="https://github.com/xhyabunny/xhyaOne_/releases/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
-</a>
-<br>
 <br>
 <a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&count_private=true&theme=cobalt&bg_color=00000000" />
@@ -49,7 +37,20 @@
 <a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xhyabunny&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=cobalt&bg_color=00000000" />
 </a>
+    <br>
+
   
+  <h2 align="center"> »‎ ｐｒｏｊｅｃｔｓ！</h2>
+<br>
+  
+  | api | status |
+| --------------- | --------------- | 
+| [ex-ide](https://ex-ide.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/7bbe6b35-15d7-4f47-b219-783fc096ac84/deploy-status)](https://ex-ide.netlify.app) |
+| [xhyaBot](https://xhyabot.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/12659005-2849-48c3-b984-2b2da9c5a80d/deploy-status)](https://app.netlify.com/sites/xhyabot/deploys) |
+| [xhyabunny.tk](https://xhyabunny.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/b2ad9e38-32dc-4829-86ae-586922f59885/deploy-status)](https://app.netlify.com/sites/xhyabunny/deploys) | 
+<a href="https://github.com/xhyabunny/xhyaOne_/releases/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
+</a>
   </div>
 
 <div align="center">
@@ -61,7 +62,7 @@
 <br>
 <div align="center">
 <h2> » ｘｈｙａｂｕｎｎｙ．ｏｒｇ</h2>
- 
+<br>
 <img src='https://xhyabunny.tk/assets/xhya.png' height='100px'/>
   
   <h3>> Whats <a href='https://github.com/xhyabunnyorg' target=”_blank”>xhyabunny.org?</a></h3>
