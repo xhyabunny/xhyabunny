@@ -24,18 +24,14 @@
   <img src='https://user-images.githubusercontent.com/106491722/186936955-ae528a6d-91d0-40e0-a995-dcbea8aae11f.png' height='42px'/>
   </p>
   
-  <br>
   
-  [xhya-module](https://www.npmjs.com/~xhyabunny)
-  
- ```diff
-  npm i xhya-module
- ```
-  <br>
+    
 <a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhyabunny&count_private=true&theme=cobalt&bg_color=00000000" />
 </a> <!-- top langs-->
+  
   <br>
+
   <br>
 <a href="https://github.com/xhyabunny?tab=repositories" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xhyabunny&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&theme=cobalt&bg_color=00000000" />
@@ -45,12 +41,22 @@
   
   <h2 align="center"> »‎ ｐｒｏｊｅｃｔｓ！</h2>
 <br>
+
+  [ｘｈｙａ－ｍｏｄｕｌｅ](https://www.npmjs.com/~xhyabunny)
+ ```diff
+  npm i xhya-module
+ ```
   
+ ｘｈｙａｂｕｎｎｙ ｗｅｂ ａｐｐｓ
+
   | api | status |
 | --------------- | --------------- | 
 | [ex-ide](https://ex-ide.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/7bbe6b35-15d7-4f47-b219-783fc096ac84/deploy-status)](https://ex-ide.netlify.app) |
 | [xhyaBot](https://xhyabot.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/12659005-2849-48c3-b984-2b2da9c5a80d/deploy-status)](https://app.netlify.com/sites/xhyabot/deploys) |
 | [xhyabunny.tk](https://xhyabunny.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/b2ad9e38-32dc-4829-86ae-586922f59885/deploy-status)](https://app.netlify.com/sites/xhyabunny/deploys) | 
+  
+  ｘｈｙａＯｎｅ Ｃｏｎｓｏｌｅ
+
 <a href="https://github.com/xhyabunny/xhyaOne_/releases/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xhyabunny&theme=github_dark&repo=xhyaOne_&layout=compact" />
 </a>
