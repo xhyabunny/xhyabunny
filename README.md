@@ -52,8 +52,8 @@
   | api | status |
 | --------------- | --------------- | 
 | [ex-ide](https://ex-ide.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/7bbe6b35-15d7-4f47-b219-783fc096ac84/deploy-status)](https://ex-ide.netlify.app) |
-| [xhyaBot](https://xhyabot.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/12659005-2849-48c3-b984-2b2da9c5a80d/deploy-status)](https://app.netlify.com/sites/xhyabot/deploys) |
-| [xhyabunny.tk](https://xhyabunny.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/b2ad9e38-32dc-4829-86ae-586922f59885/deploy-status)](https://app.netlify.com/sites/xhyabunny/deploys) | 
+| [xhyaBot](https://xhyabot.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/12659005-2849-48c3-b984-2b2da9c5a80d/deploy-status)](https://xhyabot.tk) |
+| [xhyabunny.tk](https://xhyabunny.tk) | [![Netlify Status](https://api.netlify.com/api/v1/badges/b2ad9e38-32dc-4829-86ae-586922f59885/deploy-status)](https://xhyabunny.tk) | 
   
   ｘｈｙａＯｎｅ Ｃｏｎｓｏｌｅ
 
