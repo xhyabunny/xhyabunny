@@ -42,7 +42,7 @@
   <h2 align="center"> »‎ ｐｒｏｊｅｃｔｓ！</h2>
 <br>
 
-  [ｘｈｙａ－ｍｏｄｕｌｅ](https://www.npmjs.com/~xhyabunny)
+  [ｘｈｙａｂｕｎｎｙ ｎｐｍｓ](https://www.npmjs.com/~xhyabunny)
  ```diff
   npm i xhya-module
  ```
