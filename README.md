@@ -8,8 +8,8 @@
 <br>
 <br>
 <div>
-<a href="https://xhyabunny.tk">
-    <img src="https://img.shields.io/badge/Website-xhyabunny.tk-lightgreen?style=flat-square">
+<a href="https://xhyabunny.com">
+    <img src="https://img.shields.io/badge/Website-xhyabunny.com-lightgreen?style=flat-square">
 </a>  
 <a href="https://github.com/xhyabunny">
     <img src="https://komarev.com/ghpvc/?username=xhyabunny&label=Visitors&color=orange&style=flat-square" alt="googoldkhan" />
