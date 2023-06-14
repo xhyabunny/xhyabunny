@@ -1,5 +1,5 @@
 <a align="center" href="https://github.com/xhyabunny">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=18&duration=2000&pause=400&multiline=true&width=500&height=80&lines=xhyabunny+(Fka.+bonndubz);Developer+%7C+Musician+%7C+Artist+%7C+DJ" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=18&duration=2000&pause=400&multiline=true&width=500&height=80&lines=xhyabunny+(Fka.+bonndubz);Developer+%7C+Musician+%7C+Artist+%7C+DJ;;Ababababababababa" alt="Typing SVG" />
 </a>
 <br>
 <a align="center" href="https://github.com/xhyabunny">
