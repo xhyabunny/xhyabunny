@@ -21,6 +21,7 @@
     </div>
     <p align="left">
   <img src='https://user-images.githubusercontent.com/106491722/186936943-12a8bb5d-9bd7-429d-9341-a9ce966c1799.png' height='42px'/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936946-2fb5abbb-59e2-4b9c-b53a-bf0846b6539a.png' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/210182101-741943f9-c945-4f06-80f2-53716f0a98c4.png' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936949-86e5784f-99cf-4c24-9125-a022a895ce92.jpg' height='42px'/>
