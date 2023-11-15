@@ -10,6 +10,12 @@
 Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
 <br>
 <div>
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/xhyabunny/">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+</a>
+<a class="header-badge" target="_blank" href="https://twitter.com/bonndubz">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bonndubz?style=social">
+</a><br>
 <a href="https://discord.gg/Ktkrg7C2da">
     <img src="https://img.shields.io/discord/777028166535479326?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
 </a>
