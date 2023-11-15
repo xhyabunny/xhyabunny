@@ -10,6 +10,9 @@
 Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
 <br>
 <div>
+<a href="https://discord.gg/Ktkrg7C2da">
+    <img src="https://img.shields.io/discord/777028166535479326?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
+</a>
 <a href="https://xhyabunny.com">
     <img src="https://img.shields.io/badge/Website-xhyabunny.com-lightgreen?style=flat-square">
 </a>  
