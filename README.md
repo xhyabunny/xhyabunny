@@ -7,6 +7,14 @@
 </a>
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhyabunny/xhyabunny/output/silly-contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhyabunny/xhyabunny/output/silly-contribution-snake.svg" />
+    <img alt="Silly contribution snake animation" src="github-snake.svg" />
+  </picture>
+</div>
+
 Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
 <br>
 <div>
