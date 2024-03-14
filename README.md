@@ -3,7 +3,7 @@
 </a>
 <br>
 <a align="center" href="https://github.com/xhyabunny">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I adore to create online content for you 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that tool for you 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
 </a>
 <br>
 
