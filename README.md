@@ -5,15 +5,6 @@
 <a align="center" href="https://github.com/xhyabunny">
     <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that tool for you 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
 </a>
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhyabunny/xhyabunny/output/silly-contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhyabunny/xhyabunny/output/silly-contribution-snake.svg" />
-    <img alt="Silly contribution snake animation" src="github-snake.svg" />
-  </picture>
-</div>
 
 Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
 <br>
