@@ -30,7 +30,6 @@ Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
 </a>
     </div>
     <p align="left">
-  <img src='https://user-images.githubusercontent.com/106491722/210182101-741943f9-c945-4f06-80f2-53716f0a98c4.png' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/58578a4e-e881-4b7f-b798-01254f22cb01' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936949-86e5784f-99cf-4c24-9125-a022a895ce92.jpg' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936946-2fb5abbb-59e2-4b9c-b53a-bf0846b6539a.png' height='42px'/>
@@ -39,6 +38,8 @@ Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
   <img src='https://user-images.githubusercontent.com/106491722/186936953-6b6cbd7d-f942-4717-a5d7-6db6310f9ed7.png' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936955-ae528a6d-91d0-40e0-a995-dcbea8aae11f.png' height='42px'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png' height='42px'/>
+<br>
+  <img src='https://user-images.githubusercontent.com/106491722/210182101-741943f9-c945-4f06-80f2-53716f0a98c4.png' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/11eac280-9cfa-4018-8f33-de467ed24694' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/690a3fb3-4a92-4681-91b2-c2e55e659159' height='42px'/>
   </p>
