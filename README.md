@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that tool for you 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
 </a>
 
-Check out [my portfolio!](https://xhyabunny.com/tiagolaurenzi)
+[xhyabunny](https://xhyabunny.com)
 <br>
 <div>
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/xhyabunny/">
