@@ -1,5 +1,5 @@
 <a href='https://xhyabunny.com'>
-    <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/9a3c1d6b-f787-4f3b-b109-6531676fcf72'/>
+    <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/670aaa3d-2ef7-4427-b8a0-d032b3ad8756'/>
 </a>
 
 <br>
@@ -7,22 +7,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that tool you use daily 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
 </a>
 <br>
-
-[xhyabunny.com](https://xhyabunny.com)
-<br>
 <div>
-<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/xhyabunny/">
-    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-</a>
-<a class="header-badge" target="_blank" href="https://twitter.com/bonndubz">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bonndubz?style=social">
-</a><br>
 <a href="https://discord.gg/Ktkrg7C2da">
     <img src="https://img.shields.io/discord/777028166535479326?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
 </a>
+    
 <a href="https://xhyabunny.com">
     <img src="https://img.shields.io/badge/Website-xhyabunny.com-lightgreen?style=flat-square">
 </a>  
+
 <a href="https://github.com/xhyabunny">
     <img src="https://komarev.com/ghpvc/?username=xhyabunny&label=Visitors&color=orange&style=flat-square" alt="googoldkhan" />
 </a>
@@ -30,7 +23,8 @@
 <a href="mailto:xhya@post.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-    </div>
+</div>
+<br>
     <p align="left">
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/58578a4e-e881-4b7f-b798-01254f22cb01' height='42px'/>
   <img src='https://user-images.githubusercontent.com/106491722/186936949-86e5784f-99cf-4c24-9125-a022a895ce92.jpg' height='42px'/>
@@ -45,6 +39,7 @@
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/11eac280-9cfa-4018-8f33-de467ed24694' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/690a3fb3-4a92-4681-91b2-c2e55e659159' height='42px'/>
   </p>
+<br>
 <br>
 <br> ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
