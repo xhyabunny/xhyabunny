@@ -1,12 +1,14 @@
-<a align="center" href="https://github.com/xhyabunny">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospace&size=18&duration=2000&pause=400&multiline=true&width=500&height=80&lines=xhyabunny+(Fka.+bonndubz);Developer+%7C+Musician+%7C+Artist+%7C+DJ;;Ababababababababa" alt="Typing SVG" />
-</a>
-<br>
-<a align="center" href="https://github.com/xhyabunny">
-    <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that tool for you 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
+<a href='https://xhyabunny.com'>
+    <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/9a3c1d6b-f787-4f3b-b109-6531676fcf72'/>
 </a>
 
-[xhyabunny corp page](https://xhyabunny.com)
+<br>
+<a align="center" href="https://github.com/xhyabunny">
+    <img src="https://readme-typing-svg.demolab.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that tool you use daily 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
+</a>
+<br>
+
+[xhyabunny.com](https://xhyabunny.com)
 <br>
 <div>
 <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/xhyabunny/">
