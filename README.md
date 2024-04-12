@@ -9,7 +9,7 @@
 <br>
 <div>
 <a href="https://discord.gg/CnDCe7u5G7">
-    <img src="https://img.shields.io/discord/938344635305189409?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
+    <img src="https://img.shields.io/discord/938344635305189409?3&color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
 </a>
     
 <a href="https://xhyabunny.com">
