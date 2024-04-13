@@ -1,5 +1,7 @@
 {
+  // links
   "discord": "https://dsc.gg/neo-",
+  // apis
   "twitchAPI": "https://api.xhyabunny.com/twitch-api",
   "vscpAPI": "https://api.xhyabunny.com/vscp-api", 
   "volatileAPI": "https://api.xhyabunny.com/volatile-api"
