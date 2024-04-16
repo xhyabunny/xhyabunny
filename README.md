@@ -41,7 +41,6 @@
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/11eac280-9cfa-4018-8f33-de467ed24694' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/690a3fb3-4a92-4681-91b2-c2e55e659159' height='42px'/>
   </p>
-<br>
 <br> ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
 <br>
