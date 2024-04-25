@@ -23,6 +23,8 @@
 <a href="mailto:xhya@post.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+
+[![wakatime](https://wakatime.com/badge/user/018bd7ec-0816-43d0-b101-104fc7a7ab9e.svg)](https://wakatime.com/@018bd7ec-0816-43d0-b101-104fc7a7ab9e)
 </div>
 <br>
     <p align="left">
