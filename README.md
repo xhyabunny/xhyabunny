@@ -19,12 +19,13 @@
 <a href="mailto:xhya@post.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
+<br>
 <a href="https://discord.gg/CnDCe7u5G7">
     <img src="https://img.shields.io/discord/938344635305189409?3&color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
 </a>
-
-[![wakatime](https://wakatime.com/badge/user/018bd7ec-0816-43d0-b101-104fc7a7ab9e.svg)](https://wakatime.com/@018bd7ec-0816-43d0-b101-104fc7a7ab9e)
+<a href="https://wakatime.com/@018bd7ec-0816-43d0-b101-104fc7a7ab9e">
+    <img src="https://wakatime.com/badge/user/018bd7ec-0816-43d0-b101-104fc7a7ab9e.svg"/>
+</a>
 </div>
 <br>
     <p align="left">
