@@ -8,8 +8,8 @@
 </a>
 <br>
 <div>
-<a href="https://xhyabunny.com">
-    <img src="https://img.shields.io/badge/Website-xhyabunny.com-lightgreen?style=flat-square">
+<a href="https://xhyabunny.org">
+    <img src="https://img.shields.io/badge/Website-xhyabunny.org-lightgreen?style=flat-square">
 </a>  
 
 <a href="https://github.com/xhyabunny">
@@ -43,6 +43,10 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/11eac280-9cfa-4018-8f33-de467ed24694' height='42px'/>
   <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/690a3fb3-4a92-4681-91b2-c2e55e659159' height='42px'/>
+  <br>
+  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/faaf3549-5cf1-40d6-b914-adba99859edd' height='42px'/>
+  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/569cc3ed-6a6d-406d-bc25-99ac40419422' height='42px'/>
+  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/4df90299-2d7c-4355-aad6-5632d7c02cc6' height='42px'/>
   </p>
 <br> ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
