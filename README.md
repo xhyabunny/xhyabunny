@@ -1,4 +1,4 @@
-<a href='https://xhyabunny.com'>
+<a href='https://xhyabunny.org'>
     <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/670aaa3d-2ef7-4427-b8a0-d032b3ad8756'/>
 </a>
 
