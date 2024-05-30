@@ -31,28 +31,9 @@
     <img src="https://wakatime.com/badge/user/018bd7ec-0816-43d0-b101-104fc7a7ab9e.svg"/>
 </a>
 </div>
-<br>
-    <p align="left">
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/58578a4e-e881-4b7f-b798-01254f22cb01' height='42px'/>
-  <img src='https://user-images.githubusercontent.com/106491722/186936949-86e5784f-99cf-4c24-9125-a022a895ce92.jpg' height='42px'/>
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/995d7e5e-382f-4a8e-bc52-9e9019ea2a55' height='42px'/>
-  <img src='https://user-images.githubusercontent.com/106491722/210182101-741943f9-c945-4f06-80f2-53716f0a98c4.png' height='42px'/>
-  <br>
-  <img src='https://user-images.githubusercontent.com/106491722/186936946-2fb5abbb-59e2-4b9c-b53a-bf0846b6539a.png' height='42px'/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height='42px'/>
-  <img src='https://user-images.githubusercontent.com/106491722/186936943-12a8bb5d-9bd7-429d-9341-a9ce966c1799.png' height='42px'/>
-  <img src='https://user-images.githubusercontent.com/106491722/186936953-6b6cbd7d-f942-4717-a5d7-6db6310f9ed7.png' height='42px'/>
-  <br>
-  <img src='https://user-images.githubusercontent.com/106491722/186936955-ae528a6d-91d0-40e0-a995-dcbea8aae11f.png' height='42px'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png' height='42px'/>
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/11eac280-9cfa-4018-8f33-de467ed24694' height='42px'/>
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/690a3fb3-4a92-4681-91b2-c2e55e659159' height='42px'/>
-  <br>
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/faaf3549-5cf1-40d6-b914-adba99859edd' height='42px'/>
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/569cc3ed-6a6d-406d-bc25-99ac40419422' height='42px'/>
-  <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/4df90299-2d7c-4355-aad6-5632d7c02cc6' height='42px'/>
-  </p>
-<br> ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
-<br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
-<br>
 
+## Skills
+![My Skill](https://skillicons.dev/icons?i=nodejs) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=ts) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=react) ![My Skill](https://skillicons.dev/icons?i=vite) ![My Skill](https://skillicons.dev/icons?i=nextjs) ![My Skill](https://skillicons.dev/icons?i=unity) ![My Skill](https://skillicons.dev/icons?i=electron) ![My Skill](https://skillicons.dev/icons?i=tauri)  ![My Skill](https://skillicons.dev/icons?i=visualstudio) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=cs)
+
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
+<br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
