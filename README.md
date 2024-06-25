@@ -33,7 +33,7 @@
 </div>
 
 ## Skills
-![My Skill](https://skillicons.dev/icons?i=nodejs) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=ts) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=react) ![My Skill](https://skillicons.dev/icons?i=vite) ![My Skill](https://skillicons.dev/icons?i=nextjs) ![My Skill](https://skillicons.dev/icons?i=unity) ![My Skill](https://skillicons.dev/icons?i=electron) ![My Skill](https://skillicons.dev/icons?i=tauri)  ![My Skill](https://skillicons.dev/icons?i=visualstudio) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=cs)
+![My Skill](https://skillicons.dev/icons?i=nodejs) ![My Skill](https://skillicons.dev/icons?i=js) ![My Skill](https://skillicons.dev/icons?i=ts) ![My Skill](https://skillicons.dev/icons?i=html) ![My Skill](https://skillicons.dev/icons?i=css) ![My Skill](https://skillicons.dev/icons?i=cs)  ![My Skill](https://skillicons.dev/icons?i=react) ![My Skill](https://skillicons.dev/icons?i=vite) ![My Skill](https://skillicons.dev/icons?i=nextjs) ![My Skill](https://skillicons.dev/icons?i=unity) ![My Skill](https://skillicons.dev/icons?i=electron) ![My Skill](https://skillicons.dev/icons?i=tauri)  ![My Skill](https://skillicons.dev/icons?i=visualstudio) ![My Skill](https://skillicons.dev/icons?i=vscode) ![My Skill](https://skillicons.dev/icons?i=windows)
 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎𝘱𝘴𝘴𝘵... 𝘩𝘦𝘳𝘦
 <br>‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎‎⇣ ⇣ ⇣
