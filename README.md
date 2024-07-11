@@ -1,7 +1,11 @@
-<a href='https://api.xhyabunny.org'>
+<div align="center">
+    <h2>API STATUS</h2>
+    <a href='https://api.xhyabunny.org'>
     <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.xhyabunny.org%2Fjson&query=%24.s&style=for-the-badge&logo=npm&logoColor=white&logoSize=auto&label=xhyapi&labelColor=%23212121&color=%24.c&cacheSeconds=4&link=https%3A%2F%2Flive.xhyabunny.org%2F'/>
-</a>
-
+    </a>
+</div>
+<br>
+<br>
 <a href='https://xhyabunny.org'>
     <img src='https://github.com/xhyabunny/xhyabunny/assets/106491722/670aaa3d-2ef7-4427-b8a0-d032b3ad8756'/>
 </a>
