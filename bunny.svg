@@ -1,0 +1,90 @@
+<svg
+        className="fixed transition-all w-[160vw] md:w-[1200px]"
+        width="1283"
+        height="610"
+        viewBox="0 0 1283 610"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <defs>
+          <radialGradient id="pulseGradient">
+            <stop offset="10%" stopColor="#58F0D4" />
+            <stop offset="95%" stopColor="#58F0D400" />
+          </radialGradient>
+          <linearGradient id="fadeGradient" gradientTransform="rotate(90)">
+            <stop offset="0%" stopColor="#888888" />
+            <stop offset="50%" stopColor="white" />
+            <stop offset="100%" stopColor="#888888" />
+          </linearGradient>
+          <mask id="vignette">
+            <rect x="0" y="0" width="1283" height="610" fill="url('#fadeGradient')" />
+          </mask>
+          <mask id="bunny-clip">
+            <path
+              vectorEffect="non-scaling-stroke"
+              d="M641.5 50 C441.5 50 341.5 250 341.5 350 C341.5 450 441.5 550 641.5 550 C841.5 550 941.5 450 941.5 350 C941.5 250 841.5 50 641.5 50 Z M441.5 150 C391.5 150 341.5 200 341.5 250 C341.5 300 391.5 350 441.5 350 C491.5 350 541.5 300 541.5 250 C541.5 200 491.5 150 441.5 150 Z M841.5 150 C791.5 150 741.5 200 741.5 250 C741.5 300 791.5 350 841.5 350 C891.5 350 941.5 300 941.5 250 C941.5 200 891.5 150 841.5 150 Z M591.5 400 L691.5 400 L641.5 450 Z"
+              stroke="white"
+              className="pulse"
+            />
+          </mask>
+        </defs>
+        <style>
+            .bunnyPath {
+              offset-path: path('M641.5 50 C441.5 50 341.5 250 341.5 350 C341.5 450 441.5 550 641.5 550 C841.5 550 941.5 450 941.5 350 C941.5 250 841.5 50 641.5 50 Z M441.5 150 C391.5 150 341.5 200 341.5 250 C341.5 300 391.5 350 441.5 350 C491.5 350 541.5 300 541.5 250 C541.5 200 491.5 150 441.5 150 Z M841.5 150 C791.5 150 741.5 200 741.5 250 C741.5 300 791.5 350 841.5 350 C891.5 350 941.5 300 941.5 250 C941.5 200 891.5 150 841.5 150 Z M591.5 400 L691.5 400 L641.5 450 Z');
+              animation: followpath 12s linear infinite, pulse 6s linear infinite;
+              opacity: 0;
+            }
+            .dashed {
+              stroke-dasharray: 3;
+              stroke-width: 1;
+            }
+            .pulse {
+              stroke-width: 3;
+            }
+            @-moz-document url-prefix() {
+              .dashed {
+                stroke-dasharray: 6;
+                stroke-width: 2;
+              }
+              .pulse {
+                stroke-width: 6;
+              }
+            }
+            @media (prefers-reduced-motion) {
+              .bunnyPath { opacity: 0; }
+            }
+            @keyframes followpath {
+              to {
+                offset-distance: 100%;
+              }
+            }
+            @keyframes pulse {
+              0% {
+                opacity: 0;
+              }
+              40% {
+                opacity: 1;
+              }
+              50% {
+                opacity: 1;
+              }
+              60% {
+                opacity: 0;
+              }
+              100% {
+                opacity: 0;
+              }
+            }
+        </style>
+        <g mask="url(#vignette)">
+          <g mask="url(#bunny-clip)">
+            <circle r="100" fill="url('#pulseGradient')" className="bunnyPath" />
+          </g>
+          <path
+            vectorEffect="non-scaling-stroke"
+            d="M641.5 50 C441.5 50 341.5 250 341.5 350 C341.5 450 441.5 550 641.5 550 C841.5 550 941.5 450 941.5 350 C941.5 250 841.5 50 641.5 50 Z M441.5 150 C391.5 150 341.5 200 341.5 250 C341.5 300 391.5 350 441.5 350 C491.5 350 541.5 300 541.5 250 C541.5 200 491.5 150 441.5 150 Z M841.5 150 C791.5 150 741.5 200 741.5 250 C741.5 300 791.5 350 841.5 350 C891.5 350 941.5 300 941.5 250 C941.5 200 891.5 150 841.5 150 Z M591.5 400 L691.5 400 L641.5 450 Z"
+            stroke="#DDDDDD"
+            className="dashed"
+          />
+        </g>
+      </svg>
