@@ -12,7 +12,7 @@
 
 <br>
 <a align="center" href="https://github.com/xhyabunny">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=fff&size=13&duration=600&pause=400&multiline=true&width=500&height=80&lines=Your+local+area+bunny+coder.+🐰;I am the guy who made that cool tool you use daily 🧪;Make sure to check all my other socials,,,+🥞;;Ababababababababa" alt="Typing SVG" />
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=17&letterSpacing=0.2px&pause=1000&color=ACDCF7&multiline=true&width=614&height=71&lines=Your+local+area+bunny+coder.+%E0%AB%AE%EA%92%B0+%CB%B6%E2%80%A2+%E0%BC%9D+%E2%80%A2%CB%B6%EA%92%B1%E1%83%90;I+am+the+guy+who+made+that+cool+tool+you+use+daily.+%F0%9F%A7%AA;Make+sure+to+check+all+my+other+socials%2C%2C%2C+%F0%9F%A5%9E" alt="Typing SVG" />
 </a>
 <br>
 <div>
