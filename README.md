@@ -16,7 +16,7 @@
 </a>
 <br>
 <div>
-<a href="https://xhyabunny.org">
+<a href="https://bonndubz.win">
     <img src="https://img.shields.io/badge/Website-xhyabunny.org-lightgreen?style=flat-square">
 </a>  
 
@@ -24,7 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=xhyabunny&label=Visitors&color=orange&style=flat-square" alt="googoldkhan" />
 </a>
 
-<a href="mailto:xhya@post.com">
+<a href="mailto:xhyabunny@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br>
